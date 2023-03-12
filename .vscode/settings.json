@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "init.h": "c",
+        "palloc.h": "c",
+        "thread": "c",
+        "atomic": "c",
+        "memory": "c",
+        "stop_token": "c"
+    }
+}
